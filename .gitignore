@@ -46,3 +46,7 @@ Thumbs.db
 # Data (if you want to exclude large datasets)
 # Uncomment the line below if your dataset is too large for GitHub
 # data/*.csv
+
+# Temporary/test files
+Untitled.ipynb
+cardiovascular_analysis_template.json
