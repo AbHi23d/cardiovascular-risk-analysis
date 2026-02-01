@@ -118,7 +118,7 @@ This isn't just a model—it's a **decision-support system**. Here's how it woul
 
 ## 🛠️ Technical Stack
 
-- **Python:** pandas, numpy, scikit-learn, matplotlib, seaborn
+- **Python:** pandas, numpy, scikit-learn, matplotlib
 - **Modeling:** Logistic regression with class weighting
 - **Evaluation:** Custom threshold optimization, precision-recall analysis
 - **Notebook:** Jupyter for reproducible analysis
@@ -188,7 +188,7 @@ This project goes further by:
 4. **Designing deployment** workflows that show systems thinking
 5. **Communicating value** in business terms (missed diagnoses, alerts per 1,000 patients)
 
-**The real deliverable isn't the model—it's the decision framework.**
+**The real deliverable isn't the model, it's the decision framework.**
 
 ---
 
@@ -198,4 +198,4 @@ This project is part of my data analytics portfolio. If you'd like to discuss th
 
 ---
 
-**Built by Abhi Dhindsa** | [GitHub](https://github.com/AbHi23d) | [LinkedIn](https://www.linkedin.com/in/abhi-dhindsa)
+**Built by Abhinav Dhindsa** | [GitHub](https://github.com/AbHi23d) | [LinkedIn](www.linkedin.com/in/abhidhindsa)
